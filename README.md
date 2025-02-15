@@ -42,6 +42,10 @@ Pour voir mon CV en action ou pour l'utiliser comme modèle, suivez ces étapes 
 - **Nom** : William Passet
 - **Site Web** : https://www.linkedin.com/in/william-passet-3987051a0/
 
+## Repos
+
+Ce dépôt correspond à l'exercice, présenté sous forme de projet, disponible sur : https://roadmap.sh/projects/single-page-cv
+
 ## Licence
 
 Ce projet est sous licence [MIT](https://opensource.org/licenses/MIT).
